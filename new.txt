@@ -1,1 +1,1 @@
-some string was changed
+string completely changed
