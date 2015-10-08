@@ -1,2 +1,1 @@
-new3.txt added on remote repository
 and some string added
